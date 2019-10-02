@@ -6,7 +6,7 @@ sys.setdefaultencoding("utf-8")
 
 """
 Analyses the length of training data and creates a train-/test-split meta-file
-Copyright (c) 2018 MUNICH ARTIFICIAL INTELLIGENCE LABORATORIES GmbH
+Copyright (c) 2019 Imdat Solak
 Created: 2018-02-23 15:00 CET, ISO
 Updated: 2018-02-26 10:33 CET, ISO
          - Added support for LibriSpeech data..

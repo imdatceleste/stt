@@ -25,7 +25,7 @@ from utils import get_language_chars, check_language_code
 train module
 
 End to end multi language speech recognition using CTC Cost model
-Copyright (c) 2018 MUNICH ARTIFICIAL INTELLIGENCE GmbH
+Copyright (c) 2019 Imdat Solak
 Copyright 2015-2016, Baidu USA LLC.
 
 This model is based on the paper of https://arxiv.org/pdf/1512.02595.pdf

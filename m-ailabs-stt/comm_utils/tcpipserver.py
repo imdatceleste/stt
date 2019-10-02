@@ -8,7 +8,7 @@ import socket
 A few classes to setup a TCP/IP-server that waits for connections
 and allows you to iterate of the connection's data (sequentially)
 
-Copyright (2017) MUNICH AILABS GmbH
+Copyright (c) 2019 Imdat Solak
 
 Created: 2017-10-12 15:30 CET, ISO
 Updated: 2018-10-13 12:00 CET, ISO

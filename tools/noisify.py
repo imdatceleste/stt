@@ -27,7 +27,7 @@ noisify.py:
     It assumes the original wav-files to be in <metadata.csv>-dir/wavs
     It creates new wavs in <metadata.csv>-dir/wavs/<noise_filename> (w/o ext) in lower-case
 
-Copyright (c) 2018 MUNICH ARTIFICIAL INTELLIGENCE LABORATORIES GmbH
+Copyright (c) 2019 Imdat Solak
 All rights reserved.
 
 Created: 2018-02-16 12:30 CET, KA

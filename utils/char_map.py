@@ -6,7 +6,7 @@ sys.setdefaultencoding('utf-8')
 Character set module: This module is used to create two dictionaries that represent 
 character set and its integer code definition and vice versa.
 
-Copyright (c) 2018 MUNICH ARTIFICIAL INTELLIGENCE LABORATORIES GmbH
+Copyright (c) 2019 Imdat Solak
 All rights reserved.
 
 Created: 2018-02-24 11:00 CET, ISO

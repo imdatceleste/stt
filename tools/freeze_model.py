@@ -7,7 +7,7 @@ sys.setdefaultencoding("utf-8")
 
 """
 Model frozen tool
-Copyright (c) 2018 MUNICH ARTIFICIAL INTELLIGENCE LABORATORIES GmbH
+Copyright (c) 2019 Imdat Solak
 
 This tool is based on Blog article https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc
 Model restore method was changed. Operation list output was added. 
