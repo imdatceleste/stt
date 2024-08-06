@@ -1,4 +1,4 @@
-Keras==2.0.9
+Keras==2.13.1
 PySoundFile==0.9.0.post1
 scipy==1.10.0
 tensorflow-gpu==2.12.0
